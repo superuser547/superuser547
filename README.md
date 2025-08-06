@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on different e-commerce internal AI services<br>🌱 I’m currently learning Prefect and process orchestration. <br>💬 Ask me about anything. <br>⚡ Fun fact: I love lavender. 
+🔭 I’m currently working on different e-commerce internal AI services.<br>🌱 I’m currently learning Prefect and process orchestration. <br>💬 Ask me about anything. <br>⚡ Fun fact: I love lavender. 
 
 
 # 💻 Tech Stack:
