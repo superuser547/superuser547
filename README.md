@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on different e-commerce internal AI services.<br>🌱 I’m currently learning anything and everything. <br>💬 Ask me about anything. <br>⚡ Fun fact: I love lavender. 
+🔭 I’m currently working on different e-commerce internal services, especially with AI.<br>🌱 I’m currently learning DevOps/SRE best practices. <br>💬 Ask me about anything. <br>⚡ Always energized. 
 
 
 # 💻 Tech Stack:
